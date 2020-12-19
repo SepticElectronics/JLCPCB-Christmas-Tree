@@ -3,7 +3,7 @@
 This is my entry for the JLCPCB.com Christmas Challenge.
 
 It is a PCB christmas tree assembled from three separate PCBs: one for the Top, on as a spacer and one as the backside.
-They are held together by solder paste on the inside and a hole for a string at the top.
+They are held together by soldering with solder paste on the inside and a hole for a string at the top.
 
 On the inside, there are multiple sideview LEDs to illuminate the edge of the tree. To reduce current consumption, all LEDs are pulse-width-modulated by a PIC16F18344.
 
